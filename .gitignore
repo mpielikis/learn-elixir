@@ -1,1 +1,2 @@
 *.beam
+/issues/lib/cli.ex
